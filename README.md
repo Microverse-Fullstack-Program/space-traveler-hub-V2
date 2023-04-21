@@ -94,7 +94,7 @@ Building this application will allow to learn how to use React and Redux in the 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a> 
  
- > - [Space Traveler Hub](https://space-traveler-hub-5v0q.onrender.com/profile)
+ > - [Space Traveler Hub](https://space-traveler-hub-5v0q.onrender.com)
 
 <!-- [Space Traveler's Hub]() -->
 
