@@ -97,7 +97,6 @@ Building this application will allow to learn how to use React and Redux in the 
  > - [Space Traveler Hub](https://space-traveler-hub-5v0q.onrender.com)
 
 <!-- [Space Traveler's Hub]() -->
-
 <p align="right">(<a href="#table-contents">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -119,18 +118,18 @@ In order to run this project you need to install the following packages/modules
 
 ### `Setup`
 
-1. Install git if not already installed
-
-2. Use VScode: open terminal in VScode
-
-3. Download the **Zip** file or clone the repo with:
-```bash
-git clone https://github.com/Microverse-Fullstack-Program/space-traveler-hub-v2
-```
-2. To access cloned directory, run and navigate to the directory where you cloned the repo:
-```bash
-cd space-traveler
-```
+> 1. Install git if not already installed
+>
+> 2. Use VScode: open terminal in VScode
+>
+> 3. Download the **Zip** file or clone the repo with:
+> ```bash
+> git clone https://github.com/Microverse-Fullstack-Program/space-traveler-hub-v2
+> ```
+> 4. To access cloned directory, run and navigate to the directory where you cloned the repo:
+> ```bash
+> cd space-traveler
+> ```
 
 ### `Install Depedancy and Run app`
 
@@ -207,13 +206,13 @@ npm test
 
 ## 👥 Author: <a name="authors"></a>
 
- **Authors**
+The collaborators of this project are.
 
-👤 Author 1: Zewdie Habtie
+👤 **Author 1: Zewdie Habtie**
 - GitHub: [Zewdie Habtie](https://github.com/ZewdieMc)
 - Twitter: [Zewdie Habte](https://twitter.com/HabtieZewdie)
 
-👤 Author 2: Chere Lemma 
+👤 **Author 2: Chere Lemma** 
 - GitHub: [Chere Lemma](https://github.com/cherelemma)
 - Twitter: [Chere Lemma](https://twitter.com/Chere21271613)
 
