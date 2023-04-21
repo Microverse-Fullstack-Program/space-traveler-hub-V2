@@ -133,7 +133,7 @@ In order to run this project you need to install the following packages/modules
 
 ### `Install Depedancy and Run app`
 
-> To install linters and other project's dependencies run:
+To install linters and other project's dependencies run:
 
 ```bash
 npm install
@@ -141,59 +141,60 @@ npm install
 
 ### Usage
 
-To run the project, execute the following command: 
-### `npm start`
+To run the project, execute the following command:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**`npm start`**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Runs the app in the development mode.\
+> Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+>
+> The page will reload when you make changes.\
+> You may also see any lint errors in the console.
 
-### `npm run build`
+**`npm run build`**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> Builds the app for production to the `build` folder.\
+> It correctly bundles React in production mode and optimizes the build for the best performance.
+> 
+> The build is minified and the filenames include the hashes.\
+> Your app is ready to be deployed!
+>
+> See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-> #### Getting Started with Create React App
+#### Getting Started with Create React App
 > - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `Run Test for Linters`
+**`Run Test for Linters`**
 
-For tracking linter errors locally you need to follow these steps:
+> For tracking linter errors locally you need to follow these steps:
+> 
+> 1. For tracking linter errors in HTML files run:
+> ```bash 
+> npx hint .
+> ```
+> 
+> 2. For tracking linter errors in CSS or SASS files run:
+> 
+> ```bash
+> npx stylelint "\*_/_.{css,scss}"
+> ```
+>
+> 3. For tracking linter errors in JavaScript files run:
+> 
+> ```bash
+> npx eslint .
+> ```
 
-1. For tracking linter errors in HTML files run:
-```bash 
-npx hint .
-```
+**`Test Command`**
 
-2. For tracking linter errors in CSS or SASS files run:
-
-```bash
-npx stylelint "\*_/_.{css,scss}"
-```
-
-3. For tracking linter errors in JavaScript files run:
-
-```bash
-npx eslint .
-```
-
-### `Test Command`
-
-For unit testing of the app run:
-
- ```JS
-npm test
-```
-![WhatsApp Image 2023-04-21 at 08 48 57](https://user-images.githubusercontent.com/73167960/233574251-196c1a67-b879-4fcf-bd38-3903b0e1e94f.jpg)
+> For unit testing of the app run:
+> 
+> ```JS
+> npm test
+> ```
+> ![WhatsApp Image 2023-04-21 at 08 48 57](https://user-images.githubusercontent.com/73167960/233574251-196c1a67-b879-4fcf-bd38-3903b0e1e94f.jpg)
 
 
 <!-- ### Deployment -->
@@ -202,9 +203,9 @@ npm test
 
 <p align="right">(<a href="#table-contents">back to top</a>)</p>
 
-<!-- AUTHOR -->
+<!-- AUTHORS -->
 
-## 👥 Author: <a name="authors"></a>
+## 👥 Authors: <a name="authors"></a>
 
 The collaborators of this project are.
 
