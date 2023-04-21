@@ -32,7 +32,7 @@
 
 # 📖 About <a name="about-project"></a>
 
-> **Space Traveler's Hub** is a web application for a company that provides commercial and scientific space travel services. The application will allow users/scientists to book rockets and join selected space missions. The Space Travelers' Hub consists of Rockets, Missions, and the My Profile section. 
+**Space Traveler's Hub** is a web application for a company that provides commercial and scientific space travel services. The application will allow users/scientists to book rockets and join selected space missions. The Space Travelers' Hub consists of Rockets, Missions, and the My Profile section. 
 > - **Rockets /Dragons Section** - this section displays a list of all available SpaceX rockets. Users can book each rocket by clicking the reservation button or cancel the previously made booking. The same layout is used to form the Dragons section [added only if your team has 3 members].
 > - **Missions Section** - this section displays a list of current missions along with their brief description and participation status. There is also a button next to each mission that allows users to join the selected mission or leave the mission the user joined earlier.
 > - **My Profile Section** - The My Profile section displays all reserved rockets and space missions.
