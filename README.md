@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <img src="SpaceTraveller.PNG" alt="logo"  height="300" />
+    <img src="SpaceTraveller.gif" alt="logo"  height="300" />
   <br/>
 
 <h3><b>Space Traveler's Hub </b></h3>
@@ -32,10 +32,7 @@
 
 # 📖 About <a name="about-project"></a>
 
-A single page web application that provides a platform for scientists to get booked for reservations and join missions to space travel.
-# 📖 [Space Traveler's Hub] <a name="about-project"></a>
-
-> **Space Traveler's Hub** is a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. The Space Travelers' Hub consists of Rockets, Missions, and the My Profile section. 
+> **Space Traveler's Hub** is a web application for a company that provides commercial and scientific space travel services. The application will allow users/scientists to book rockets and join selected space missions. The Space Travelers' Hub consists of Rockets, Missions, and the My Profile section. 
 > - **Rockets /Dragons Section** - this section displays a list of all available SpaceX rockets. Users can book each rocket by clicking the reservation button or cancel the previously made booking. The same layout is used to form the Dragons section [added only if your team has 3 members].
 > - **Missions Section** - this section displays a list of current missions along with their brief description and participation status. There is also a button next to each mission that allows users to join the selected mission or leave the mission the user joined earlier.
 > - **My Profile Section** - The My Profile section displays all reserved rockets and space missions.
@@ -43,13 +40,22 @@ A single page web application that provides a platform for scientists to get boo
 Building this application will allow to learn how to use React and Redux in the context of a real application and get hand exprience on front-end development.
 
 ## 🛠 Built With <a name="built-with"></a> 
-
-### Tech Stack <a name="tech-stack"></a>
 > - [ReactJS](https://react.dev)
 > - [Redux](https://react-redux.js.org)
 > - [React-Boostrap](https://react-bootstrap.github.io/)
 > - [Jest Test]()
 > - [React Testing Library](https://testing-library.com/)
+
+### Tech Stack <a name="tech-stack"></a>
+> - JavaScript ES6 Module
+> - ReactJS
+> - Redux
+> - babel-Webpack
+> - Jest Test
+> - React Testing Library
+> - HTML&CSS and JavaScript
+> - VS Editor
+> - GitHub and Gitflow
 
 ### Database <a name="data-base"></a>
 - API dependdencies
@@ -78,15 +84,17 @@ Building this application will allow to learn how to use React and Redux in the 
 <!-- Features -->
 
 ### Key Feature <a name="key-features"></a>
- - Fetching External API
+ - API enabled - fetch external API
  - Joining and Leaving Missions to space 
- - Rocket Booking and Canceling reservation
+ - Rocket Booking and Cancel reservation
+ - Filtering reserved Rockets and Joined Missions
 
 <p align="right">(<a href="#table-contents">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a> 
- Coming soon
+ 
+ > - [Space Traveler Hub](https://space-traveler-hub-5v0q.onrender.com/profile)
 
 <!-- [Space Traveler's Hub]() -->
 
@@ -100,20 +108,33 @@ To get the content of this project locally you need to run the following command
 
 ### Prerequisites
 
-- IDE (code editor) like: VScode, Sublime, etc
-- [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
-
+In order to run this project you need to install the following packages/modules
+> - IDE (code editor) like: VScode, Sublime, etc
+> - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
+> - [npm](https://www.npmjs.com/)
+> - [node.js](https://nodejs.org/en)
+> - [React-dom](https://legacy.reactjs.org/docs/react-dom-client.html)
+> - [React-redux](https://react-redux.js.org/)
+> - [eslinter](https://eslint.org/)
 
 ### Setup
 
-1. Download the **Zip** file or clone the repo with:
+1. Install git if not already installed
+
+2. Use VScode: open terminal in VScode
+
+3. Download the **Zip** file or clone the repo with:
 ```bash
-git clone https://github.com/ZewdieMc/space-traveler
+git clone https://github.com/Microverse-Fullstack-Program/space-traveler-hub-v2
 ```
-2. To access cloned directory run:
+2. To access cloned directory, run and navigate to the directory where you cloned the repo:
 ```bash
 cd space-traveler
 ```
+
+## Install and Run
+
+In the project directory, you can run:
 
 ### Install
 
@@ -126,11 +147,29 @@ npm install
 ### Usage
 
 To run the project, execute the following command: 
+### `npm start`
 
-- Excute below command in the terminal to serve live 
-```bash
-npm run dev
-```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+> #### Getting Started with Create React App
+> - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Run Test for Linters
 
@@ -196,8 +235,6 @@ Chere Lemma
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Mobile version resposiveness.
-- Implement leave mission and cancel rocket reservation functionality in My Profile.
-- Implement Dragon components and add featurers
 
 <p align="right">(<a href="#table-contents">back to top</a>)</p>
 
@@ -223,7 +260,13 @@ If you like this project, kindly follow me on GitHub 😊
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Much appreciation goes to microverse and Space X for the availability of the API to practice.
+> I would like to thank [Microverseinc](https://github.com/microverseinc) for. 
+
+* [Readme-template](https://github.com/microverseinc/readme-template)
+* [Linter for React & Redux](https://github.com/microverseinc/linters-config)
+
+> - Much appreciation goes to Space X for the availability of the API to practice.
+* [SpaceX API](https://api.spacexdata.com)
 
 <p align="right">(<a href="#table-contents">back to top</a>)</p>
 
