@@ -106,7 +106,7 @@ Building this application will allow to learn how to use React and Redux in the 
 
 To get the content of this project locally you need to run the following commands in your terminal.
 
-### Prerequisites
+### `Prerequisites`
 
 In order to run this project you need to install the following packages/modules
 > - IDE (code editor) like: VScode, Sublime, etc
@@ -117,7 +117,7 @@ In order to run this project you need to install the following packages/modules
 > - [React-redux](https://react-redux.js.org/)
 > - [eslinter](https://eslint.org/)
 
-### Setup
+### `Setup`
 
 1. Install git if not already installed
 
@@ -132,11 +132,7 @@ git clone https://github.com/Microverse-Fullstack-Program/space-traveler-hub-v2
 cd space-traveler
 ```
 
-## Install and Run
-
-In the project directory, you can run:
-
-### Install
+### `Install Depedancy and Run app`
 
 > To install linters and other project's dependencies run:
 
@@ -170,8 +166,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Run Test for Linters
+### `Run Test for Linters`
 
 For tracking linter errors locally you need to follow these steps:
 
@@ -191,7 +186,8 @@ npx stylelint "\*_/_.{css,scss}"
 ```bash
 npx eslint .
 ```
-## Test Command
+
+### `Test Command`
 
 For unit testing of the app run:
 
@@ -200,13 +196,6 @@ npm test
 ```
 ![WhatsApp Image 2023-04-21 at 08 48 57](https://user-images.githubusercontent.com/73167960/233574251-196c1a67-b879-4fcf-bd38-3903b0e1e94f.jpg)
 
-## Test Command
-
-For unit testing of the app run:
-
- ```JS
-npm test
-```
 
 <!-- ### Deployment -->
 
