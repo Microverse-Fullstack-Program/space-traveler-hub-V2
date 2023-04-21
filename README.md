@@ -207,13 +207,13 @@ npm test
 
 ## 👥 Author: <a name="authors"></a>
 
-👤 **Authors**
+ **Authors**
 
-Zewdie Habtie
+👤 Author 1: Zewdie Habtie
 - GitHub: [Zewdie Habtie](https://github.com/ZewdieMc)
 - Twitter: [Zewdie Habte](https://twitter.com/HabtieZewdie)
 
-Chere Lemma 
+👤 Author 2: Chere Lemma 
 - GitHub: [Chere Lemma](https://github.com/cherelemma)
 - Twitter: [Chere Lemma](https://twitter.com/Chere21271613)
 
@@ -249,13 +249,14 @@ If you like this project, kindly follow me on GitHub 😊
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank [Microverseinc](https://github.com/microverseinc) for. 
+I would like to thank [Microverseinc](https://github.com/microverseinc) for. 
 
-* [Readme-template](https://github.com/microverseinc/readme-template)
-* [Linter for React & Redux](https://github.com/microverseinc/linters-config)
+> * [Readme-template](https://github.com/microverseinc/readme-template)
+> * [Linter for React & Redux](https://github.com/microverseinc/linters-config)
 
-> - Much appreciation goes to Space X for the availability of the API to practice.
-* [SpaceX API](https://api.spacexdata.com)
+Much appreciation goes to Space X for the availability of the API to practice.
+
+> * [SpaceX API](https://api.spacexdata.com)
 
 <p align="right">(<a href="#table-contents">back to top</a>)</p>
 
